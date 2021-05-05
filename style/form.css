@@ -1,0 +1,68 @@
+form {
+    margin-top: 8rem;
+    width: 50%;
+}
+
+.email,
+.password {
+    position: relative;
+    padding-top: 13px;
+}
+
+.email input,
+.password input {
+    border: 0;
+    border-bottom: 2px solid var(--color-font);
+    outline: none;
+    width: 100%;
+    height: 3rem;
+    font-size: 16px;
+    transition: all .3s ease-out;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -webkit-appearance: none;
+    border-radius: 0;
+    background: none;
+    opacity: .5;
+}
+
+.email input:focus,
+.password input:focus {
+    border-bottom: 2px solid var(--color-font);
+}
+
+.email input::placeholder,
+.password input::placeholder {
+    color: transparent;
+}
+
+.email label,
+.password label {
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1.5rem;
+    transition: all .3s ease-out;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    font: 700 1.2rem Archivo;
+    color: var(--color-font);
+}
+
+.password input:required:invalid+label .email input:required:invalid+label {
+    color: red;
+}
+
+.password input:focus:required:invalid .email input:focus:required:invalid {
+    border-bottom: .2rem solid red;
+}
+
+.password input:focus+label,
+.password input:not(:placeholder-shown)+label,
+.email input:focus+label,
+.email input:not(:placeholder-shown)+label {
+    font-size: 1.3rem;
+    margin-top: 0;
+    color: var(--color-font);
+}

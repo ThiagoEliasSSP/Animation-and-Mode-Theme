@@ -1,0 +1,28 @@
+:root {
+    --color-background: #FDDAAA;
+    --color-details: #FFFFFF;
+    --color-font: #000000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+
+    overflow: hidden;
+    font-size: 65.2%;
+    background-color: var(--color-background);
+}
+
+.dark-mode:root{
+    --color-background: #0E141D;
+    --color-details: #FFFFFF;
+    --color-font: #F0F0F0;
+}

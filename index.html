@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/form.css">
+    <link rel="stylesheet" href="style/global.css">
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/animation.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/img/logo.svg" type="image/x-icon">
+    <title>Form</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box-form">
+            <div class="box-header">
+                <a href="#" id="mode">DarkMode</a>
+            </div>
+            <span class="txt-login">
+                <h1>Login</h1>
+                <p>Entre e se surpreenda com esse novo mundo!</p>
+            </span>
+            <form action="#">
+                <div class="email">
+                    <input type="email" name="email" id="email" placeholder=" " required autocomplete="off">
+                    <label for="email">Email</label>
+                </div>
+                <div class="password">
+                    <input type="password" name="password" id="password" placeholder=" " required autocomplete="off">
+                    <label for="password">Senha</label>
+                </div>
+            </form>
+            <div class="conect-with">
+                <button class="with-google">
+                    <img src="/img/icon-google.svg" alt="">
+                    <p>Sign in with Google</p>
+                </button>
+                <button class="with-facebook">
+                    <img src="/img/icon-facebook.svg" alt="">
+                    <p>Sign in with Facebook</p>
+                </button>
+            </div>
+            <a href="#">Cadastrar-se</a>
+        </div>
+        <div class="box-background">
+            <img src="/img/background_light.png" alt="" id="background">
+        </div>
+    </div>
+    <ul class="box-animation">
+    <script src="/script/animation.js" defer></script>
+    <script src="/script/mode.js"></script>
+</body>
+
+</html>
