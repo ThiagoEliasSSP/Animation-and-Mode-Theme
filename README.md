@@ -12,4 +12,4 @@
 👤 **Thiago Elias**
 
 * Github: [@ThiagoEliasSSP](https://github.com/ThiagoEliasSSP)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/thiago-elias-a21311172\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/thiago-elias-a21311172\/)
+* LinkedIn: [@ThiagoElias](www.linkedin.com/in/ThiagoEliasSSP)
