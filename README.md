@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Mode-And-Animation 👋</h1>
+<h1 align="center">🔦Welcome to Mode-And-Animation💻</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -12,4 +12,4 @@
 👤 **Thiago Elias**
 
 * Github: [@ThiagoEliasSSP](https://github.com/ThiagoEliasSSP)
-* LinkedIn: [@ThiagoElias](www.linkedin.com/in/ThiagoEliasSSP)
+* LinkedIn: [@ThiagoElias](https://www.linkedin.com/in/ThiagoEliasSSP)
