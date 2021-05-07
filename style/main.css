@@ -25,16 +25,25 @@
     margin: 0 2rem;
     border-radius: 1rem;
     background-color: var(--Color-secondary);
-    padding: 1rem;
+    padding: .5rem;
     display: flex;
     align-items: center;
 }
 
 .btn-mode-theme a{
     width: 4rem;
-    height: 4rem;
+    height: 100%;
     border-radius: .7rem;
     background-color: var(--Color-primary);
     position: relative;
-    left: 70%;
+}
+
+.slide-dark{
+    transition: 0.2s linear 3ms;
+    transform: translateX(0.3rem)
+}
+
+.slide-light{
+    transition: 0.2s linear 3ms;
+    transform: translateX(9.4rem);
 }

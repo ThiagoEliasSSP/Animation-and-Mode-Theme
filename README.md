@@ -1,6 +1,6 @@
 <h1 align="center">🔦Welcome to Mode-And-Animation💻</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.2.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Esse é um pequeno projeto para trabalhar com animação e darkmode simples
