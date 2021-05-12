@@ -1,4 +1,4 @@
-<h1 align="center">🔦Welcome to Animation-and-Mode-Theme💻</h1>
+<h1 align="center">🌑Animation-and-Mode-Theme☀</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.3.0-blue.svg?cacheSeconds=2592000" />
 </p>
