@@ -5,7 +5,9 @@
 
 > Esse é um pequeno projeto para trabalhar com animação e darkmode simples
 
-![Layout](https://i.ibb.co/Q93xpyX/Whats-App-Video-2021-05-11-at-23-15-42.gif)
+<p>
+  <img alt="Version" src="https://i.ibb.co/Q93xpyX/Whats-App-Video-2021-05-11-at-23-15-42.gif" style="width: 200px; height: auto;"/>
+</p>
 
 ### 🏠 [Homepage](https://github.com/ThiagoEliasSSP/Mode-And-Animation)
 
