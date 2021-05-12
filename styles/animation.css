@@ -1,0 +1,36 @@
+.box-animation{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+li{
+    list-style-type: none;
+    position: absolute;
+    animation: rainCubes;
+    top: 100vh;
+}
+
+.slide-dark{
+    transition: 0.2s linear 3ms;
+    transform: translateX(0.3rem)
+}
+
+.slide-light{
+    transition: 0.2s linear 3ms;
+    transform: translateX(9.4rem);
+}
+
+@keyframes rainCubes {
+    0%{
+        opacity: 0;
+        transform: translateY(0px) rotate(45deg);
+    }
+    50%{
+        opacity: .5;
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(-150vh) rotate(360deg);
+    }
+}

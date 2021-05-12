@@ -11,5 +11,5 @@ hours > 18 ? ModeTheme() : null;
 function ModeTheme(){
     html.classList.toggle('dark');
     html.classList == 'dark' ? btn.setAttribute("class", 'slide-dark') : btn.setAttribute("class", 'slide-light');
-    html.classList == 'dark' ? icon.href = "./icons/moon.svg" : icon.href = "./icons/sun.svg";
+    html.classList == 'dark' ? icon.href = "../icons/moon.svg" : icon.href = "../icons/sun.svg";
 }

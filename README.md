@@ -1,9 +1,11 @@
 <h1 align="center">🔦Welcome to Mode-And-Animation💻</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.3.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Esse é um pequeno projeto para trabalhar com animação e darkmode simples
+
+<img src="https://i.ibb.co/Q93xpyX/Whats-App-Video-2021-05-11-at-23-15-42.gif" width="80%" height="auto" />
 
 ### 🏠 [Homepage](https://github.com/ThiagoEliasSSP/Mode-And-Animation)
 

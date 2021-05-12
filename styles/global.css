@@ -25,6 +25,9 @@ body {
     -webkit-user-select: none;
     -ms-user-select: none;
 	user-select: none;
+    overflow: hidden;
+    position: fixed;
+    background-color: var(--Color-primary);
 }
 
 @media (min-width: 2000px) {
@@ -45,12 +48,5 @@ body {
     
     :root{
         font-size: 40%;
-    }
-}
-
-@media (max-width: 400px) {
-    
-    :root{
-        font-size: 30%;
     }
 }

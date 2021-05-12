@@ -1,16 +1,16 @@
 .container{
-    width: 100%;
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--Color-primary);
+    width: 100%;
+    height: 100%;
 }
 
 .box-mode-theme{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    z-index: 1;
 }
 
 .txt-mode-theme{
@@ -38,12 +38,6 @@
     position: relative;
 }
 
-.slide-dark{
-    transition: 0.2s linear 3ms;
-    transform: translateX(0.3rem)
-}
-
-.slide-light{
-    transition: 0.2s linear 3ms;
-    transform: translateX(9.4rem);
+.btn-mode-theme a:hover{
+    opacity: .98;
 }
