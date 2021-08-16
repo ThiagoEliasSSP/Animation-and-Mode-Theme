@@ -4,7 +4,7 @@
 </p>
 
 ### 🏠 **Descrição**
-> Esse é um pequeno projeto para trabalhar com animação e darkmode simples.
+> Esse é um projeto para aplicar o sistema de DarkMode e Animação.
 
 <p>
   <img alt="Layout" src="https://i.ibb.co/NSsXFcT/Whats-App-Video-2021-05-11-at-23-52-51.gif" style="width: 200px; height: auto;"/>
